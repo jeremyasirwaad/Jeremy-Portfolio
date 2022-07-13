@@ -1,7 +1,7 @@
 const logotext = "Jeremy Asirwaad";
 const meta = {
 	title: "Jeremy Asirwaad",
-	description: "I’m Jeremy Asirwaad Full stack devloper - Portfolio"
+	description: "Jeremy Asirwaad - Full stack devloper - Portfolio"
 };
 
 const introdata = {
