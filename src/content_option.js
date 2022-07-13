@@ -12,13 +12,14 @@ const introdata = {
 		third: "I develop mobile apps"
 	},
 	description: "A Self made, Passionate, Enthusiastic Web Developer",
-	your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d"
+	your_img_url:
+		"https://firebasestorage.googleapis.com/v0/b/startup-st.appspot.com/o/jnew2.png?alt=media&token=987e3abb-4d9d-4982-886f-592384246a51"
 };
 
 const dataabout = {
-	title: "abit about my self",
+	title: "About Myself",
 	aboutme:
-		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies."
+		"Currently persuing bachelor of enginnering (Information Technology) at Government College of Technology, Coimbatore. Proficient in building mobile apps and responsive websites.  "
 };
 const worktimeline = [
 	{
@@ -149,7 +150,7 @@ const contactConfig = {
 	YOUR_EMAIL: "asirwaadj@gmail.com",
 	YOUR_FONE: "+91-9843632220",
 	description:
-		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+		"Available for telephone calls throughout the day till 27th of July 2022. ",
 	YOUR_SERVICE_ID: "service_id",
 	YOUR_TEMPLATE_ID: "template_id",
 	YOUR_USER_ID: "user_id"
