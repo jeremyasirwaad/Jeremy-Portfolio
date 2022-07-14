@@ -19,12 +19,12 @@ const introdata = {
 const dataabout = {
 	title: "About Myself",
 	aboutme:
-		"Currently persuing bachelor of enginnering (Information Technology) at Government College of Technology, Coimbatore. Proficient in building mobile apps and responsive websites.  "
+		"Currently persuing bachelor of Engineering (Information Technology) at Government College of Technology, Coimbatore. Proficient in building mobile apps and responsive websites.  "
 };
 const worktimeline = [
 	{
 		jobtitle: "Flutter Developer - Internship",
-		where: "TNEA(TamilNadu Enginnering Admissions)",
+		where: "TNEA(TamilNadu Engineering Admissions)",
 		date: "April 2022 - July 2022"
 	},
 	{
